@@ -1,0 +1,15 @@
+.form {
+    font-family: "Roboto", "sans-serif";
+}
+
+.form--container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 600px) {
+    .form--container {
+        width: 100%;
+    }
+}

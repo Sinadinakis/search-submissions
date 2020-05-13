@@ -15,18 +15,19 @@ To run the tests, run:
 ## Libraries
 
 I have used the following libraries in my application
-fontawesome
-material-ui
-bootstrap-css
-google-map-react
-mdbreact
-prop-types
-react
-react-dom
-react-router-dom
-react-scripts
-concurrently
-json-server
+fontawesome., 
+material-ui,
+bootstrap-css,
+google-map-react,
+mdbreact,
+prop-types,
+react,
+react-dom,
+react-router-dom,
+react-scripts,
+concurrently,
+json-server,
+prettier
 
 ## Location Map
 

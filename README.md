@@ -28,8 +28,3 @@ react-scripts,
 concurrently,
 json-server,
 prettier
-
-## Location Map
-
-The map marker is not showned on the map at this point.
-The coordinates is applied correctly to the map component.
